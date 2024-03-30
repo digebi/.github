@@ -10,4 +10,6 @@
 <img src="https://github.com/digebi/digebi/blob/main/assets/Qatzij.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.qatzij" target="_blank">
 <img src="https://github.com/digebi/digebi/blob/main/assets/Qanej.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.qanej" target="_blank">
 <img src="https://github.com/digebi/digebi/blob/main/assets/Waatin.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.waatin" target="_blank">
+<img src="https://github.com/digebi/digebi/blob/main/assets/Qyolbil.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.qyolbil" target="_blank">
+<img src="https://github.com/digebi/digebi/blob/main/assets/Tzijobal.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.tzijobal" target="_blank">
 </p>
