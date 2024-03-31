@@ -6,12 +6,26 @@
 ### APPS
 
 <p align="center">
-<img src="https://github.com/digebi/digebi/blob/main/assets/Nutzij.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.nutzij" target="_blank">
-<img src="https://github.com/digebi/digebi/blob/main/assets/Qatzij.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.qatzij" target="_blank">
-<img src="https://github.com/digebi/digebi/blob/main/assets/Qanej.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.qanej" target="_blank">
-<img src="https://github.com/digebi/digebi/blob/main/assets/Waatin.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.waatin" target="_blank">
-<img src="https://github.com/digebi/digebi/blob/main/assets/Qyolbil.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.qyolbil" target="_blank">
-<img src="https://github.com/digebi/digebi/blob/main/assets/Tzijobal.png" width="100" height="100" href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.tzijobal" target="_blank">
+
+<a href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.nutzij" target="_blank">
+  <img width="100" src="https://github.com/digebi/digebi/blob/main/assets/Nutzij.png" />
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.qatzij" target="_blank">
+  <img width="100" src="https://github.com/digebi/digebi/blob/main/assets/Qatzij.png" />
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.qanej" target="_blank">
+  <img width="100" src="https://github.com/digebi/digebi/blob/main/assets/Qanej.png" />
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.waatin" target="_blank">
+  <img width="100" src="https://github.com/digebi/digebi/blob/main/assets/Waatin.png" />
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.qyolbil" target="_blank">
+  <img width="100" src="https://github.com/digebi/digebi/blob/main/assets/Qyolbil.png" />
+</a>
 
 <a href="https://play.google.com/store/apps/details?id=gt.gob.mineduc.digebi.tzijobal" target="_blank">
   <img width="100" src="https://github.com/digebi/digebi/blob/main/assets/Tzijobal.png" />
